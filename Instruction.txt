@@ -1,0 +1,10 @@
+step1- upload both files twitter bot and last senen txt file
+step2-add you api and tokan in given field
+step3-change value in last seen txt put there your values
+
+example-whwn you click in your recent notification of your account you willl get link and the simply
+replace the last seen txt file
+https://twitter.com/Abhishe65750891/status/1393156755140481025
+
+1393156755140481025 --this is the code and of the link
+and run code enjoy......
